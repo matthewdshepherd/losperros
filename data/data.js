@@ -1,0 +1,86 @@
+const dogsWeLove = [
+  {
+    name: 'Rose',
+    breed: 'Golden',
+    favoriteTreat: 'peanut butter',
+    age: 2,
+    tricks: ['sit', 'stay', 'speak', 'kiss', 'roll over', 'fetch', 'play dead', 'shake', 'get newspaper', 'high-five'],
+    spayedneutered: true,
+    location: 'California',
+    legs: 4,
+    eyes: true,
+    hoursSleepDay: 12
+  },
+  {
+    name: 'Sophie',
+    breed: 'Kyi-leo',
+    favoriteTreat: 'pepperoni',
+    age: 13,
+    tricks: ['sit', 'stay', 'speak'],
+    spayedneutered: true,
+    location: 'California',
+    legs: 4,
+    eyes: false,
+    hoursSleepDay: 20
+  },
+  {
+    name: 'Charlie',
+    breed: 'rhodesian ridgeback',
+    favoriteTreat: 'pig ear',
+    age: 7,
+    tricks: ['sit', 'stay', 'speak', 'defend', 'play dead', 'shake'],
+    spayedneutered: true,
+    location: 'Michigan',
+    legs: 4,
+    eyes: true,
+    hoursSleepDay: 17
+  },
+  {
+    name: 'Buddy',
+    breed: 'shetland sheepdog',
+    favoriteTreat: 'jerkey sticks',
+    age: 100,
+    tricks: ['sit', 'stay', 'speak', 'play dead', 'shake', 'chase birds'],
+    spayedneutered: true,
+    location: 'New York',
+    legs: 14,
+    eyes: true,
+    hoursSleepDay: 16
+  },
+  {
+    name: 'Brinni',
+    breed: 'american bulldog',
+    favoriteTreat: 'wilderness treats',
+    age: 9,
+    tricks: ['sit', 'stay', 'speak', 'play dead', 'shake', 'kiss'],
+    spayedneutered: true,
+    location: 'Colorado',
+    legs: 4,
+    eyes: true,
+    hoursSleepDay: 15
+  },
+  {
+    name: 'Luna',
+    breed: 'mutt',
+    favoriteTreat: 'goose poop',
+    age: 1,
+    tricks: ['sit', 'stay', 'speak', 'fetch', 'roll over', 'kiss', 'lay-down', 'shake', 'high-five'],
+    spayedneutered: true,
+    location: 'Colorado',
+    legs: 4,
+    eyes: true,
+    hoursSleepDay: 17
+  },
+  {
+    name: 'Teddy',
+    breed: 'german shepherd',
+    favoriteTreat: 'bully sticks',
+    age: 6,
+    tricks: ['sit', 'stay', 'speak', 'roll over', 'kiss', 'lay-down', 'shake', 'high-five', 'fetch'],
+    spayedneutered: true,
+    location: 'Colorado',
+    legs: 4,
+    eyes: true,
+    hoursSleepDay: 14
+  },
+]
