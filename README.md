@@ -3,7 +3,7 @@
 #### Created by:
 FE 1906
 Matthew Malone
-GitHub: [matthewdshepherd](https://github.com/matthewdshepherd)
+GitHub: [ohnomalone](https://github.com/ohnomalone)
 Slack: @Matthew
 
 Trisha Langlois
